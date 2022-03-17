@@ -11,6 +11,10 @@ namespace ConsoleApp1
         static void Metoda()
         { 
         
+
+        static void Metoda2()
+        {
+
         }
     }
 }
